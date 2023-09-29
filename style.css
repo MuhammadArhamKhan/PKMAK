@@ -1,0 +1,433 @@
+
+
+* {
+  font-size: 20px; 
+}
+
+h5 {
+  background-color: yellow;
+}
+
+.Email {
+  border: 2px solid black;
+  position: absolute;
+  left: 32px;
+  top: -9px;
+}
+
+#EmailIcon {
+  width: 20px;
+  height: 30px;
+  background-color: yellow;
+  position: absolute;
+  top: 20px;
+  left: 8px
+}
+
+#DivE {
+  width:100%;
+  height: 50px;
+  background-color: rgb(0, 136, 255);
+}
+
+.Phone {
+  border: 2px solid black;
+  position: absolute;
+  left: 330px;
+  top: -10px;
+}
+
+#PhoneIcon {
+  width: 20px;
+  height: 30px;
+  background-color: yellow;
+  position: absolute;
+  top: 20px;
+  left: 306px;
+}
+
+#English {
+  position: absolute;
+  top: -6px;
+  right: 100px;
+}
+
+#menu {
+  z-index: 4;
+  width: 100%;
+  height: 50px;
+  background-color: rgb(0, 136, 255);
+  position: fixed;
+}
+
+.Menu {
+  z-index: 4;
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+  background-color: aqua;
+  position: relative;
+  top: -17px;
+  left: 150px;
+  font-weight: bold;
+  border: 2px solid aqua;
+}
+
+#Logo {
+  width: 70px;
+  height: 50px;
+  position: relative;
+  left: 20px;
+}
+
+#Donate {
+  color: rgb(251, 243, 0);
+  border: 2px solid yellow;
+  position: absolute;
+  top: -15px;
+  right: 30px;
+  font: 27px;
+}
+
+#Mazar {
+  width: 1000px;
+  height: 500px;
+  position: relative;
+  top: 70px;
+  left: 90px;
+  z-index: -1;
+  border: 4px solid rgb(255, 247, 247);
+  box-shadow: 4px 4px 4px black;
+  box-shadow: 5px 5px 5px 5px 10px rgb(164, 163, 163);
+
+}
+
+#Mazar:hover{background-color: rgb(0, 0, 0);}
+
+
+#box {
+
+  background-color: rgb(210, 255, 179);
+  box-shadow: 10px 10px 5px rgb(55, 55, 55);
+  z-index: 1;
+}
+
+
+.Work {
+  position: relative;
+  box-shadow: 8px 8px 2px rgb(140, 137, 137);
+  font-size: 40px;
+  display: inline;
+  top: -90px;
+  left: 105px;
+  border: 2px solid white;
+  background-color: rgb(245, 245, 245);
+  border-radius: 15px;
+  z-index: 2;
+}
+
+#Dbox {
+  position: relative;
+  top: 30px;
+  left: 30px;
+}
+
+#QuickD {
+  position: relative;
+  left: 400px;
+  bottom: 30px;
+  font-size: 40px;
+  border: 2px solid green;
+  border-radius: 2px;
+
+  z-index: 3;
+  background-color: rgba(0, 146, 0, 0.475);
+  width: 250px;
+}
+
+#What {
+  text-transform: capitalize;
+  text-align: center;
+  font-size: 40px;
+}
+
+#Donatebox {
+  border: 5px solid rgb(207, 239, 186);
+  position: relative;
+  top: 40px;
+  left: 20px;
+  width: 300px;
+}
+
+
+
+.walfare {
+  background-color: rgba(207, 236, 179, 0.87);
+  width: 150px;
+  height: 160px;
+  position: relative;
+  left: 20px;
+  text-align: center;
+}
+
+#walfaret {
+  position: relative;
+  top: -5px;
+}
+
+.Medical {
+  background-color: rgba(207, 236, 179, 0.87);
+  width: 150px;
+  height: 160px;
+  position: relative;
+  left: 230px;
+  bottom: 183px;
+  text-align: center;
+}
+
+.OnlineSadqah {
+  background-color: rgba(207, 236, 179, 0.87);
+  width: 150px;
+  height: 160px;
+  position: relative;
+  left: 440px;
+  bottom: 364px;
+  text-align: center;
+}
+
+.ROPlant {
+  background-color: rgba(207, 236, 179, 0.87);
+  width: 150px;
+  height: 160px;
+  position: relative;
+  left: 650px;
+  bottom: 524px;
+  text-align: center;
+}
+
+#ROPlantt {
+  position: relative;
+  bottom: 20px
+}
+
+.Education {
+  background-color: rgba(207, 236, 179, 0.87);
+  width: 150px;
+  height: 160px;
+  position: relative;
+  left: 850px;
+  bottom: 685px;
+  text-align: center;
+}
+
+.Food {
+  background-color: rgba(207, 236, 179, 0.87);
+  width: 150px;
+  height: 160px;
+  position: relative;
+  left: 1050px;
+  bottom: 844px;
+  text-align: center;
+}
+
+#Foodt {
+  position: relative;
+  bottom: 20px;
+  font-weight: bolder;
+}
+
+#CarLt {
+  position: center;
+  width: 400px;
+  height: 300px;
+  position: relative;
+  left: 40px;
+  bottom: -150px; 
+
+
+}
+#CarLt:hover{background-color: red;}
+#Jeep:hover{background-color: red;}
+#jeep2:hover{background-color: red;}
+
+#Jeep {
+  width: 400px;
+  height: 300px;
+  position: relative;
+  left: 840px;
+  bottom: -150px;
+}
+
+#jeep2 {
+  width: 450px;
+  height: 260px;
+  position: relative;
+  bottom: 110px;
+  border-width: 600px;
+
+
+}
+
+#StJeep {
+  width: 300px;
+  height: 600px;
+}
+
+#Au {
+  text-align: center;
+  text-shadow: 5px 5px 7px rgb(0, 0, 0);
+  color: rgb(251, 18, 18);
+  font-size: 100px;
+  font-style: bolder;
+  text-decoration: underline 3px red;
+  border: 2px solid rgba(243, 153, 153, 0.179)
+}
+
+#car3 {
+  border: rgb(0, 0, 0);
+
+  border-radius: 10px;
+  box-shadow: 2px 2px 7px black;
+  position: relative;
+  bottom: 600px; background-color: rgba(197, 197, 198, 0.555);
+}
+
+#Bike1 {
+  width: 400px;
+  height: 350px;
+  position: relative;
+  bottom: 400px;
+  border: rgb(67, 42, 42) 2px solid;
+}
+
+#Bike2 {
+  width: 400px;
+  height: 350px;
+  position: relative;
+  bottom: 400px;
+  border: rgb(67, 42, 42) 2px solid;
+}
+
+#Bike3 {
+  width: 400px;
+  height: 350;
+  position: relative;
+  bottom: 50px;
+  right: 820px;
+  border: rgb(67, 42, 42) 2px solid;
+}
+
+#Bike4 {
+  width: 400px;
+  height: 350px;
+  position: relative;
+  bottom: 400px;
+  left: 400px; border: rgb(67, 42, 42) 2px solid;
+}
+#Bike1:hover{background-color: red;}
+#Bike2:hover{background-color: red;}
+#Bike3:hover{background-color: red;}
+#Bike4:hover{background-color: red;}
+#BBEST {
+  border: 2px solid red;
+  width: 30%; height: 706px;
+  position: relative;
+  bottom: 1117px;
+  left: 820px;
+  box-shadow: 10px 10px 5px gray;
+  text-align: justify;
+}
+#BBEST:hover{background-color: rgb(96, 93, 93);color:#ffffff}
+/* 
+#B4 {
+  position: relative;
+  border: 2px solid rgb(146, 133, 133);
+  box-shadow: 10px 10px 6px gray;
+  min-width: 200px;
+} */
+#car{text-align: center; color: rgb(253, 8, 8);
+   text-shadow:10px 10px 60px rgb(0, 0, 0);  font-size:500px;
+position: relative; bottom:750px;right:00px;background-color: rgba(241, 241, 241, 0.95);
+  }
+.Best {
+  font-size: 60px;
+  text-align: center;
+  text-shadow: 2px 2px black;
+  color: rgb(233, 60, 60);
+}
+
+#BIKE{text-align: center; color: #ffffff; font-size: 300px; 
+   text-decoration: underline; position: relative; 
+   bottom: 550px; text-shadow: 10px 10px 8px rgb(4, 4, 4); 
+  background-color: rgba(255, 0, 0, 0.865);}
+  
+  .LAMBORGHINI{font-family: 'Archivo Black', sans-serif;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-family: 'Kenia', cursive;
+    font-family: 'Lora', serif; text-align: center; font-size: 30pt; 
+  color: whitesmoke
+  ; background: red; text-transform: capitalize;}
+  
+  #ME{   border: 70px 70px solid rgb(6, 6, 255);
+    box-shadow: 5px 5px 5px black;
+  position: relative;
+  bottom: 980px;
+  border: 70px 70px solid blue;
+  }
+  #testi{text-align: center; color:green; 
+    font-size: 29pt;}
+    #Web{text-align: center; 
+    font-size: 27px;
+    color: rgb(29, 31, 29);
+
+    }
+    #whatsay{text-align: center; color:rgb(0, 207, 253); 
+      font-size: 22pt;}
+      #Muhammad{text-align:center; color:rgb(63, 67, 63); 
+       width:99%}
+#last{position: relative; bottom: 600px; width: 100%;}
+#last2nd{position: relative; bottom: 300px; width:100%}
+#CON{color: yellow; font-size: 60px; text-align: center; 
+text-decoration: underline; position: relative; top: 30px;}
+#last2nd:hover{background-color: red;}
+#last:hover{background-color: red;}
+#EP{z-index: 1;}
+#Mazar:hover{background-color: red;}
+       #contactdetail{background-color: rgb(179, 182, 185);width: 100%; height: 400px;}
+#Cemail{color: rgb(255, 255, 255); text-decoration: none;
+ font-size: 29pt;}
+ #EmailIcon2{width: 20px;
+  height: 30px;
+  background-color: yellow;
+  position: absolute;
+  top: 20px;
+  left: 8px}
+  #Logo2{
+    width:300px;
+  height: 200px;
+  position: relative;
+  left: 50px; top:50px;
+  }
+  #CONT{position: relative;
+  left: 750px; 
+ bottom: 250px;font-size: 40pt; color:Red;
+}
+
+#c{font-size: 50pt; background-color: red;width: 520px; 
+color: white; text-decoration: underline;text-align: center;
+position: relative; top:20px;
+right: 60px;}
+#PhoneIcon2{width: 50px; height:50px; position: relative;
+left: -69px; bottom: -20px;}
+.Contsame{
+  font-size: 29pt; text-decoration: none; color: black;
+  position: relative; 
+  right: 8px; bottom: 35px;
+}
+.Contsame2{
+  font-size: 29pt; text-decoration: none; color: black;
+  position: relative; 
+  left:-10px; bottom: 75px;
+}
+#EmailIcon2{width: 50px; height:50px; position: relative;
+  left: -70px; top: 48px;}
+  
